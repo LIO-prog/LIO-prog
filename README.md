@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-This is my repo where I've got both Personal and Coursework related projects.
+This is my repo where most of my projects are stored.
 
 - 🌱 I’m currently pursuing a BSc (Hons) in Computer Science (Artificial Intelligence).
-- 💬 My main interest is working within ML/AI and Data Science fields. 
+- 💬 My main interest is working within ML/AI as well as Data Science. 
