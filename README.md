@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-This is my repo where most of my projects are stored.
 
-- 🌱 I’m currently pursuing a BSc (Hons) in Computer Science (Artificial Intelligence).
+- 🌱 I’m currently about to pursue my BSc (Hons) in Computer Science (Artificial Intelligence), about to start my final year!
 - 💬 My main interest is working within ML/AI as well as Data Science. 
